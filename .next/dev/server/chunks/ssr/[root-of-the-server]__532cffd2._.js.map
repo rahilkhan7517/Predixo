@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 10, "column": 0}, "map": {"version":3,"sources":["file:///C:/Users/2023/OneDrive/Predixo/app/page.tsx"],"sourcesContent":["import React from \"react\";\r\n\r\nexport default function Home() {\r\n  return (\r\n    <div style={{ textAlign: \"center\", padding: \"50px\" }}>\r\n      <h1>PREDIXO</h1>\r\n      <p>Your AI Forecasting Assistant</p>\r\n    </div>\r\n  );\r\n}\r\n"],"names":[],"mappings":";;;;;;AAEe,SAAS;IACtB,qBACE,8OAAC;QAAI,OAAO;YAAE,WAAW;YAAU,SAAS;QAAO;;0BACjD,8OAAC;0BAAG;;;;;;0BACJ,8OAAC;0BAAE;;;;;;;;;;;;AAGT"}}]
+}

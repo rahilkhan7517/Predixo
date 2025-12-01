@@ -1,0 +1,10 @@
+# common ignores
+node_modules/
+.vscode/
+__pycache__/
+*.pyc
+dist/
+build/
+.env
+.env.local
+.env.local
